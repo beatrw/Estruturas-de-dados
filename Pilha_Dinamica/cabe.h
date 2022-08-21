@@ -1,8 +1,5 @@
 /*
-Pilha din‚mica
-
-Aluna: 
-Beatriz Thiana Silva de Aquino - 202122870
+Pilha din√¢mica
 
 */
 
